@@ -4,6 +4,8 @@
 
 ### What is Zookie Monster?
 Just like a zombified Cookie Monster, it's a crawler that's cookie driven. It crawls in search of cookies.
+![fbcb2c13f9c40f3926ba862727c0d3c7](https://github.com/sjstark/zookie-monster/assets/6759557/cd3cf680-9ff9-456b-83c8-633b1b544101)
+
 
 ## How to Use
 
